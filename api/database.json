@@ -1,0 +1,81 @@
+{
+    "plumbers": [
+        {
+            "id": 1,
+            "name": "Maude"
+        },
+        {
+            "id": 2,
+            "name": "Merle"
+        }
+    ],
+    "completions": [
+        {
+            "id": 1,
+            "requestId": 4,
+            "plumberId": 1,
+            "date_created": 1652728901594
+        },
+        {
+            "id": 1,
+            "requestId": 4,
+            "plumberId": 1,
+            "date_created": 1652728901594
+        },
+        {
+            "id": 1,
+            "requestId": 4,
+            "plumberId": 1,
+            "date_created": 1652728901594
+        },
+        {
+            "id": 1,
+            "requestId": 4,
+            "plumberId": 1,
+            "date_created": 1652728901594
+        },
+        {
+            "requestId": 1,
+            "plumberId": 1,
+            "date_created": 1653531144542,
+            "id": 2
+        }
+    ],
+    "requests": [
+        {
+            "id": 1,
+            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+            "address": "34445 Bianka Ports",
+            "budget": 400,
+            "neededBy": "2021-08-27"
+        },
+        {
+            "id": 2,
+            "description": "The toilet is overflowing",
+            "address": "376 JavaScript avenue",
+            "budget": 900,
+            "neededBy": "2021-09-23"
+        },
+        {
+            "id": 4,
+            "description": "Sink appears to be clogged",
+            "address": "1110 Python Place",
+            "budget": 330,
+            "neededBy": "2021-08-28"
+        },
+        {
+            "id": 3,
+            "description": "Pipe below sink burst and is causing water damage. Please help! ASAP",
+            "address": "710 json circle",
+            "budget": 220,
+            "neededBy": "2021-08-17"
+        },
+        {
+            "description": "leaky bathtub",
+            "address": "1000 infinity way",
+            "budget": "1000",
+            "neededBy": "2022-05-14",
+            "id": 5
+        }
+    ]
+}
